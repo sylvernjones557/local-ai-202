@@ -1,0 +1,6 @@
+{
+  "name": "AI Assistant Hub",
+  "description": "A curated prompt playground and AI assistant workspace powered by the server-side Gemini API, featuring customizable instructions, template cards, local thread persistence, and rich code-rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
